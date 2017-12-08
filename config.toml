@@ -1,4 +1,4 @@
-baseURL = "http://determined-volhard-0cf348.netlify.com"
+baseURL = "//determined-volhard-0cf348.netlify.com"
 languageCode = "en-us"
 title = "Andrew Kowalik"
 theme = "hugo_theme_pickles"
