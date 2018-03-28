@@ -1,7 +1,6 @@
 ---
 title: "Cellular Data Vietnam"
-date: 2018-03-27T17:39:36-08:00
-
+date: 2016-05-17T23:35:40-08:00
 draft: false
 ---
 
