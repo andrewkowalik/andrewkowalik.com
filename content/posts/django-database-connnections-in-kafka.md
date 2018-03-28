@@ -1,7 +1,7 @@
 ---
 title: "Cleaning up Django Persistent Database Connections"
 date: 2017-02-13T06:01:39-08:00
-draft: true
+draft: false
 ---
 
 For the past year at work we have been utilizing more Kafka infrastructure for what typically would have been handled using celery workers. This has led to some interesting rediscoveries of Django ORM. While this example is used in a Kafka implementation, it is not dependent on it and can be used in any scenario where code is run outside of a typical Django view.
